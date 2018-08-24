@@ -2,7 +2,7 @@
   "name": "slapbattle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cscasalme.github.io/slapbattle/",
+  "homepage": "https://cscasalme.github.io/slapbattle",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
